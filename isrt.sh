@@ -7,7 +7,7 @@ function isrt()
   msg=""
   usage=$(
     echo " "
-    echo "'I should remember that!' (isrt)"
+    echo "'I Should Remember That!' (isrt)"
     echo " "
     echo "- A tool to save commands that should be remembered!"
     echo "- Writes to a file on your desktop called isrt.txt"
