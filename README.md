@@ -10,15 +10,21 @@ Usage:
 - Add the `-s` flag with a number of previous steps to save.
 
 Example:
+
 `echo "0"`
+
 `echo "1"`
+
 `echo "2"`
+
 `isrt -s 3 -d "make the computer talk"`
 
 Example `isrt.txt`:
-```----Wed Mar 11 17:40:30 CDT 2020----
+```
+----Wed Mar 11 17:40:30 CDT 2020----
 Description: make the computer talk
 echo "0"
 echo "1"
 echo "2"
-------------------------------------```
+------------------------------------`
+``
